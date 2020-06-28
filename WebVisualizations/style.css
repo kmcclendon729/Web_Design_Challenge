@@ -1,0 +1,32 @@
+
+/* Giving the body the specified background color, adding font sizes for the h1 and h3 elements we'll be using */
+body {
+  background: lightgray;
+}
+
+/* Giving our navbar some padding and a background color */
+.navbar {
+  background: white;
+}
+
+.navbar-brand {
+  font-size: x-large;
+  cursor: pointer;
+  background: teal;
+  color: #ffffff;
+  text-align: center;
+}
+
+.col-med-8 {
+  display: inline-block;
+  background-color: white;
+  height: 600px;
+  padding: 20px;
+}
+
+.col-med-4 {
+  display: inline-block;
+  background-color: white;
+  height: 600px;
+  padding: 20px;
+}
